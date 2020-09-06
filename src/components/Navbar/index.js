@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react';
+import './style.css';
 
 
 
@@ -7,12 +8,12 @@ class Navbar extends Component{
 
   render(){
     return (
-      <nav className='navbar navbar-expand-lg navbar-light bg-light '>
+      <nav className='navbar navbar-expand-lg bg-dark text-light '>
         <a className='navbar-brand' href='/'>
           Aaron.B Portfolio
         </a>
         <button
-          className='navbar-toggler'
+          className='navbar-toggler bg-light float-right'
           type='button'
           data-toggle='collapse'
           data-target='#navbarNav'
@@ -22,9 +23,9 @@ class Navbar extends Component{
           <span className='navbar-toggler-icon'></span>
         </button>
         <div className='collapse navbar-collapse float-right' id='navbarNav'>
-          <ul className='navbar-nav '>
-            <li className='nav-item active'>
-              <a className='nav-link float-right' href='/'>
+          <ul className='navbar-nav col-md-5'>
+            <li className='nav-item active float-right'>
+              <a className='nav-link' href='/'>
                 Home <span className='sr-only'>(current)</span>
               </a>
             </li>
