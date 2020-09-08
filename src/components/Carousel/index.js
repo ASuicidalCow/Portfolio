@@ -8,9 +8,8 @@ export class BootstrapCarousel extends React.Component {
   render() {
     return (
       <div className='container mt-5 '>
-        <div className='container-fluid mb-5'>
+        <div >
           
-          <h1 className='text-center'>Welcome to my site!</h1>
         </div>
         <Carousel className='w-100 h-10' id='carousel'>
           <Carousel.Item>
