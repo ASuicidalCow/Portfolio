@@ -9,7 +9,9 @@ class Navbar extends Component{
   render(){
     return (
       <nav className='navbar navbar-expand-lg bg-dark text-light '>
-        <a className='navbar-brand' href='/'>
+        <a
+          className='navbar-brand'
+          href='https://asuicidalcow.github.io/portfolio/'>
           Aaron.B Portfolio
         </a>
         <button
@@ -25,13 +27,15 @@ class Navbar extends Component{
         <div className='collapse navbar-collapse float-right' id='navbarNav'>
           <ul className='navbar-nav col-md-5'>
             <li className='nav-item active float-right'>
-              <a className='nav-link' href='/'>
+              <a
+                className='nav-link'
+                href='https://asuicidalcow.github.io/portfolio/'>
                 Home <span className='sr-only'>(current)</span>
               </a>
             </li>
             <li className='nav-item '>
               <a className='nav-link' href='#'>
-                Portfolio 
+                Portfolio
               </a>
             </li>
             <li className='nav-item'>
