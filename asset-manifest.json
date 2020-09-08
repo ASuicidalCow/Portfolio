@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bb9549d7.chunk.css",
+    "main.js": "/portfolio/static/js/main.d022857c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d022857c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.97644493.chunk.js": "/portfolio/static/js/2.97644493.chunk.js",
+    "static/js/2.97644493.chunk.js.map": "/portfolio/static/js/2.97644493.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.34bac6bfb467ed1cedb19736f9b39772.js": "/portfolio/precache-manifest.34bac6bfb467ed1cedb19736f9b39772.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.bb9549d7.chunk.css.map": "/portfolio/static/css/main.bb9549d7.chunk.css.map",
+    "static/js/2.97644493.chunk.js.LICENSE.txt": "/portfolio/static/js/2.97644493.chunk.js.LICENSE.txt",
+    "static/media/Untitled.png": "/portfolio/static/media/Untitled.6b868382.png",
+    "static/media/style.css": "/portfolio/static/media/background.bad31abb.jpg",
+    "static/media/foodTruck.png": "/portfolio/static/media/foodTruck.3b147600.png",
+    "static/media/pat.png": "/portfolio/static/media/pat.20dadde1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.97644493.chunk.js",
+    "static/css/main.bb9549d7.chunk.css",
+    "static/js/main.d022857c.chunk.js"
+  ]
+}
