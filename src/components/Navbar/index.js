@@ -9,11 +9,8 @@ class Navbar extends Component{
   render(){
     return (
       <nav className='navbar navbar-expand-lg bg-dark text-light '>
-        <a
-          className='navbar-brand'
-          href='https://asuicidalcow.github.io/portfolio/'>
-          Aaron.B Portfolio
-        </a>
+        <h2>Aaron.B Portfolio</h2>
+        <br></br>
         <button
           className='navbar-toggler bg-light float-right'
           type='button'
